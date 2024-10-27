@@ -1,0 +1,8 @@
+com\example\weather_monitoring\Module\WeatherSummary.class
+com\example\weather_monitoring\Repository\WeatherDataRepository.class
+com\example\weather_monitoring\Controller\WeatherController.class
+com\example\weather_monitoring\DTO\AlertDTO.class
+com\example\weather_monitoring\DTO\DailyWeatherSummary.class
+com\example\weather_monitoring\Module\WeatherData.class
+com\example\weather_monitoring\WeatherMonitoringApplication.class
+com\example\weather_monitoring\Service\WeatherService.class
